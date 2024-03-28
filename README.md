@@ -1,5 +1,7 @@
 # adhdbodydouble
-At my body double job, I constantly had multiple tabs open for access of information to complete my job as a body double. I spent a lot of time organizing assignments for students and determining what guidance I should give them. I wanted to come up with an application that would make my job easier. Read below for more information about adhdbodydouble.
+At my body double job, I constantly had multiple tabs open for access of information to complete my job as a body double. I spent a lot of time organizing assignments for students and determining what guidance I should give them. I wanted to come up with an application that would make my job easier. 
+
+Read below for more information about adhdbodydouble (MYSQL/JAVA)
 
 EPIC - 
 As a body double, I want to use an application to manage assignments for ADHD students, as well as accessing relevant information all in one place so that I can efficiently do my job
